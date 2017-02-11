@@ -2,7 +2,6 @@
     "name": "hoodie-phonebook",
     "version": "1.0.0",
     "description": "a simple phonebook application for managing contacts",
-    "main": "index.js",
     "scripts": {
         "start": "hoodie",
         "test": "echo \"Error: no test specified\" && exit 1"
